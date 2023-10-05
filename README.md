@@ -5,13 +5,13 @@
 	Previamente ao término do prazo, deve-se realizar a devolução ou renovação dos itens. Caso não sejam realizadas, deve-se cobrar multa
 _________________________________________________________________________
 
-ATORES
+##ATORES
 
 Usuário;
 
 bibliotecária;
 
-AÇÕES
+##AÇÕES
 
 consultar acervo;
 
